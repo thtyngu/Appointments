@@ -12,12 +12,12 @@ Project is created with:
 * Webpack
 
 ## Setup
-Clone down this repository. You will need node and npm installed globally on your machine.
+Clone down this repository. You will need `node` and `npm` installed globally on your machine.
 
 Installation:
 ```
 $ cd ../appointment
-npm install
+$ npm install
 ```
 
 To run test suite:
